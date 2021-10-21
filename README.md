@@ -1,10 +1,9 @@
 # JavaScript & p5.js Notes
 
-0. [Getting Started](0-Getting%20Started/README.md)
-1. [Drawing](1-Drawing/README.md) 
-2. [Variables](2-Variables/README.md)
-3. [Functions](3-Functions/README.md)
-4. [Conditionals](4-Conditionals/README.md)
-5. [Loops](5-Loops/README.md)
-6. [Arrays](6-Arrays/README.md)
-7. [Objects](7-Objects/README.md)
+0. [Getting Started with p5.js](0-Getting%20Started/README.md)
+1. [Variables](1-Variables/README.md)
+2. [Functions](2-Functions/README.md)
+3. [Conditionals](3-Conditionals/README.md)
+4. [Loops](4-Loops/README.md)
+5. [Arrays](5-Arrays/README.md)
+6. [Objects](6-Objects/README.md)
