@@ -7,3 +7,5 @@
 4. [Loops](4-Loops/README.md)
 5. [Arrays](5-Arrays/README.md)
 6. [Objects](6-Objects/README.md)
+  
+[Final Project](Project/README.md)
